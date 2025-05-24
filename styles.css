@@ -16,14 +16,14 @@ body {
 }
 
 .latest-news-section,
-.artical-news-section,
+.article-news-section,
 .pictorial-news-section {
   background-color: white;
   padding: 20px;
   width: 30%;
   margin: 10px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional */
-  border-radius: 5px; /* Optional */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
 }
 
 .pictorial-news-section {
